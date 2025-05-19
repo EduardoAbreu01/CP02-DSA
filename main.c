@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
+//Nome:Eduardo Abreu de Souza
+//RM:566460
 int main()
 {
     int menu;
